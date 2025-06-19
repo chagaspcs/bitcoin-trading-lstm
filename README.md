@@ -28,4 +28,4 @@ Este repositório apresenta os **logs de operações realizadas** por dois siste
 
 Distribuição permitida somente para fins **acadêmicos e não-comerciais**.
 
-© 2025 [Seu Nome ou Instituição]
+© 2025 Patrick Chagas dos Santos
